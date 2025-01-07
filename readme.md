@@ -27,4 +27,4 @@ download this [html](<./documentation/crin custom layout-ibom.html>) and run loc
 
 #### Flash
 Flash with QMK Toolbox, with these settings
-![Uploading Screenshot 2025-01-06 at 5.38.48 PM.png…]()
+<img width="912" alt="Screenshot 2025-01-06 at 5 38 48 PM" src="https://github.com/user-attachments/assets/f1f1f709-6fb7-4f77-b47b-9708dad94153" />
