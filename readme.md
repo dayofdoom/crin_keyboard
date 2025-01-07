@@ -23,3 +23,8 @@ download this [html](<./documentation/crin custom layout-ibom.html>) and run loc
 
 #### Schematic
 [pdf](<./documentation/crin custom layout-schematic.pdf>)
+
+
+#### Flash
+Flash with QMK Toolbox, with these settings
+![Uploading Screenshot 2025-01-06 at 5.38.48 PM.png…]()
